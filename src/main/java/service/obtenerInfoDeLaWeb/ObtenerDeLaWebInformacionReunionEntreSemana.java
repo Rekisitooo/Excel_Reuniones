@@ -20,7 +20,15 @@ public class ObtenerDeLaWebInformacionReunionEntreSemana {
 		return new ArrayList<ReunionEntreSemana>();
 	}
 	
-	private boolean abrirSeccionBiblioteca() {
-		return true;
+	private void abrirSeccionBibliotecaJW() {
+
+	}
+	
+	private void abrirSeccionGuiaDeActividadesJW() {
+
+	}
+	
+	private void abrirGuiaActividadesMesSeleccionadoPorUsuario(String mes) {
+
 	}
 }
