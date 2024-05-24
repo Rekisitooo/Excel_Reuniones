@@ -20,7 +20,7 @@ public class ObtenerDeLaWebInformacionReunionEntreSemana {
 		return new ArrayList<ReunionEntreSemana>();
 	}
 	
-	private void abrirSeccionBiblioteca() {
-		
+	private boolean abrirSeccionBiblioteca() {
+		return true;
 	}
 }
